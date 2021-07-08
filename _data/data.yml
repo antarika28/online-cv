@@ -61,7 +61,7 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-        
+experiences:
   - role: Volunteer
     time: 2018-2020
     company: Kirteey NGO, Kolkata
@@ -77,7 +77,7 @@ education:
       As part of the NSS cadre, I participated in two projects, one involving the collection and
       distribution of clothes in Park Circus slum areas and the other with a campus 
       cleaning and hygiene awareness day.
-      experiences:
+
   - role: Public Relations
     time: 2020-2021
     company: Anubhooti NGO,Kolkata
@@ -115,26 +115,6 @@ projects:
     - title: COVID RELIEF BELT 2021
       link: "#"
       tagline: "As part of the effort of several organizations to fight back misinformation regarding COVID-19, I was involved in helping create a strong database of reliable essential resources like vacant hospital beds, food delivery outlets, oxygen cylinders, etc. My role involved connecting people in urgent need with the right verified resources to save time and provide moral support."
-
-publications:
-  title: Publications
-  intro: |
-    
-  papers:
-    - title: 
-      link: 
-      authors: 
-      conference: 
-
-    - title: 
-      link: 
-      authors: 
-      conference: 
-
-    - title: 
-      link: 
-      authors:
-      conference: 
 
 skills:
   title: Skills &amp; Proficiency
